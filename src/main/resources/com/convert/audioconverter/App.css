@@ -1,0 +1,15 @@
+.root{
+    -fx-background-color: #2E4053;
+}
+.button{
+    -fx-background-color: #5D6D7E;
+}
+
+.text-area.content {
+  -fx-background-color: #283747;
+
+}
+.text-area{
+  -fx-background-color: #283747;
+  -fx-text-fill: #283747;
+}
