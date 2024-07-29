@@ -1,1 +1,1 @@
-Simple App that converts audio files to mp3/mp4a/wav format using JavaFX and Ffmpeg.
+Select file from your PC and it will be converted to desired formate :)
